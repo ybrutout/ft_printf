@@ -21,10 +21,10 @@ Durant ce projet, noous devions gérer les conversions suivantes : "%c, %s, %d, 
 Dans un même temps, nous devions gérer les flags suivants : "-0.*"  
   
 Printf is a function found in the <stdio.h> library  
-[man printf EN :] (https://linux.die.net/man/3/printf)  
+man printf EN : https://linux.die.net/man/3/printf  
   
 Printf est un fonction qui se retrouve dans la librairie <stdio.h>  
-[man printf FR :] (http://manpagesfr.free.fr/man/man3/printf.3.html)  
+man printf FR : http://manpagesfr.free.fr/man/man3/printf.3.html  
   
 ### Conversions
 
