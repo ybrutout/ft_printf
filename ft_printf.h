@@ -6,7 +6,7 @@
 /*   By: ybrutout <ybrutout@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/03 13:44:12 by mushu             #+#    #+#             */
-/*   Updated: 2021/04/22 16:24:32 by ybrutout         ###   ########.fr       */
+/*   Updated: 2021/04/27 13:41:46 by ybrutout         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,7 @@
 # include <unistd.h>
 # include <stdarg.h>
 # include <stdlib.h>
+# include <stdio.h>
 
 typedef struct s_point
 {

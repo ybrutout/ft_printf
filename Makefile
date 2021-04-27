@@ -6,7 +6,7 @@
 #    By: ybrutout <ybrutout@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/03/09 11:56:15 by mushu             #+#    #+#              #
-#    Updated: 2021/04/26 12:05:11 by ybrutout         ###   ########.fr        #
+#    Updated: 2021/04/27 13:41:11 by ybrutout         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -25,6 +25,7 @@ SRC =	ft_check.c\
 		ft_conv_flags_X_.c \
 		ft_printf.c\
 		ft_tools.c \
+		main.c \
 
 OBJ = $(SRC:%.c=%.o)
 
